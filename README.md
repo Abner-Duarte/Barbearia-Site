@@ -85,7 +85,7 @@ Tabelas principais (script em [`BarbeariaDoPra/ScriptBanco.sql`](BarbeariaDoPra/
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/darkslipx/Barbearia-Site.git
+git clone https://github.com/Abner-Duarte/Barbearia-Site.git
 cd Barbearia-Site/BarbeariaDoPra
 
 # 2. Crie o banco executando ScriptBanco.sql no SQL Server (banco: bdBarbearia)
@@ -126,7 +126,7 @@ BarbeariaDoPra/
 
 ## 👥 Equipe
 
-- **Abner Evandro Duarte** — [@darkslipx](https://github.com/darkslipx)
+- **Abner Evandro Duarte** — [@Abner-Duarte](https://github.com/Abner-Duarte)
 - Pedro Thiago Campus
 - Vitor Natti Salgado
 - Mateus Henrique dos Santos Pereira
